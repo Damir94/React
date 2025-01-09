@@ -6,6 +6,6 @@ export const users = [
     {id: 4, name: 'Donw', status: 'Student'},
     {id: 5, name: 'Jay', status: 'Developer'},
     {id: 6, name: 'Jimmi', status: 'Mentor'},
-    {id: 7, name: 'Jimi', status: 'Mentor'},
+    {id: 7, name: 'Jim', status: 'Mentor'},
     {id: 8, name: 'Jerry', status: 'Mentor'},
 ]
